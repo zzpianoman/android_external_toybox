@@ -300,7 +300,6 @@ ALL_TOOLS := \
     rmmod \
     route \
     runcon \
-    sed \
     seq \
     setenforce \
     setprop \
